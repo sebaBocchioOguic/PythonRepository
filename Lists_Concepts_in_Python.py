@@ -75,7 +75,7 @@ languages.append("python")
 #   ['php', 'java', 'golang', 'python']
 
 
-# To concatenate two Lists just use the Entend Function
+# To concatenate two Lists just use the Extend Function
 
 otherLanguages = ["c", "c++"]
 languages.extend(otherLanguages)
