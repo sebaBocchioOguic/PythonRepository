@@ -4,7 +4,7 @@
 
 # FOR Sentence  
 # for <element> in <object>:
-# The object can be a List, Tuple, Dictionary or Ses Structure
+# The object can be a List, Tuple, Dictionary or Set Structure
 # Also you can iterate into String Objects
 
 
