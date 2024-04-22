@@ -9,7 +9,7 @@
 # >= Mayor or equal than
 # <= Minor or equal tham
 
-# is - it compares if the variables are the same obkject
+# is - it compares if the variables are the same object
 # and - returns true if all conditions are true
 # or - returns true if any of the conditions are true
 # not - it verifies if an element doesn't pass some condition
